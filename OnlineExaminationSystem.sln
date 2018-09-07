@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OnlineExaminationSystem", "OnlineExaminationSystem\", "{D0082217-2E5E-4C9F-9BAC-93CEDD998A6C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62317"
+		Debug.AspNetCompiler.PhysicalPath = "OnlineExaminationSystem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62317\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62317"
+		Release.AspNetCompiler.PhysicalPath = "OnlineExaminationSystem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62317\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62317"
+		SlnRelativePath = "OnlineExaminationSystem\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0082217-2E5E-4C9F-9BAC-93CEDD998A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0082217-2E5E-4C9F-9BAC-93CEDD998A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D65BA9CC-FCEA-4268-97CE-DE774AD95118}
+	EndGlobalSection
+EndGlobal

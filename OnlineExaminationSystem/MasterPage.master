@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Styles/signin.css" rel="stylesheet" />
+    <link href="Styles/navbar-top.css" rel="stylesheet" />
+    <link href="Styles/footer.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <!--end of navigation -->
+
+        <div id="content" class="container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!--end of content -->
+
+        <div id="footer" class="text-center">
+            <p>&copy;Copyright 2018. All Right Reserved <a href="#">Peter P. Petrov</a></p>
+        </div>
+        <!--end of footer-->
+
+        <!--end of container-->
+
+    </form>
+</body>
+</html>
