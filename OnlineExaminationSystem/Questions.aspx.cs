@@ -52,7 +52,7 @@ public partial class Questions : System.Web.UI.Page
 
         if (questionDetails.PageIndex == questionDetails.PageCount - 1)
         {
-            btnNext.Text = "Finished";
+            btnNext.Text = "Завърши теста";
         }
 
     }

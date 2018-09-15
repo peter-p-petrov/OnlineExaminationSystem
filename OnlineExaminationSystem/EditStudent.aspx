@@ -59,14 +59,14 @@
             <div class="form-group">
                 <label for="ddlSemester" class="sr-only">Семестър:</label>
                 <asp:DropDownList ID="ddlSemester" runat="server" class="form-control">
-                    <asp:ListItem>1ви семестър</asp:ListItem>
-                    <asp:ListItem>2ри семестър</asp:ListItem>
-                    <asp:ListItem>3ти семестър</asp:ListItem>
-                    <asp:ListItem>4ти семестър</asp:ListItem>
-                    <asp:ListItem>5ти семестър</asp:ListItem>
-                    <asp:ListItem>6ти семестър</asp:ListItem>
-                    <asp:ListItem>7ми семестър</asp:ListItem>
-                    <asp:ListItem>8ми семестър</asp:ListItem>
+                    <asp:ListItem>1st semester</asp:ListItem>
+                    <asp:ListItem>2nd semester</asp:ListItem>
+                    <asp:ListItem>3rd semester</asp:ListItem>
+                    <asp:ListItem>4th semester</asp:ListItem>
+                    <asp:ListItem>5th semester</asp:ListItem>
+                    <asp:ListItem>6th semester</asp:ListItem>
+                    <asp:ListItem>7th semester</asp:ListItem>
+                    <asp:ListItem>8th semester</asp:ListItem>
                 </asp:DropDownList>
             </div>
 

@@ -44,10 +44,10 @@
             <div class="form-group">
                 <label for="ddlDuration" class="sr-only">Продължителност:</label>
                 <asp:DropDownList ID="ddlDuration" runat="server" class="form-control">
-                    <asp:ListItem>1 година</asp:ListItem>
-                    <asp:ListItem>2 години</asp:ListItem>
-                    <asp:ListItem>3 години</asp:ListItem>
-                    <asp:ListItem>4 години</asp:ListItem>
+                    <asp:ListItem>1 year</asp:ListItem>
+                    <asp:ListItem>2 years</asp:ListItem>
+                    <asp:ListItem>3 years</asp:ListItem>
+                    <asp:ListItem>4 years</asp:ListItem>
                 </asp:DropDownList>
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ErrorMessage="Полето е задължително" Style="color: #FF0000" ControlToValidate="ddlDuration" />
             </div>

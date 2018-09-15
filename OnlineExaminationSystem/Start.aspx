@@ -28,13 +28,8 @@
             </tr>
             <tr>
                 <td>
-                    <p class="style1">You are about to take the 
-                    Exam. The Exam contains multiple choice style questions with 25 Question 
-                    for each Subject. Read the Question carefully and Choose the Correct Answer form 
-                    the drop down list box then select the Next button. 
-                    You are not allow to go back and change your answers once you select the Next
-                    button, so choose carefully.</p>
-                    <p class="style1">When you are ready to begin, select the Start button below.</p>
+                    <p class="style1">Вие сте на път да започнете тест. Тестът съдържа въпроси с няколко възможност за избор с до 25 въпроса за всяка дисциплина. Прочетете внимателно въпроса и изберете правилния според Вас отговор в падащото меню и след това изберете бутона "Следващ въпрос". Не можете да се върнете и да промените отговорите си, след като изберете "Следващ въпрос", затова обмисляйте внимателно отговора си.</p>
+                    <p class="style1">Когато сте готови да започнете, натиснете бутона "Начало"</p>
                 </tr>                                    
             <tr>
                 <td align="right">

@@ -54,7 +54,7 @@ public partial class Results : System.Web.UI.Page
             }
         }
         catch(Exception){
-                errorLabel.Text ="There was a problem saving your quiz results into our database.  Therefore, the results from this quiz will not be displayed on the list on the main menu.";
+                errorLabel.Text ="Изникна проблем при запазването на Вашият тест в базата данни. Резултатът от теста няма да бъде показан в историята на положените от Вас тестове!";
         }
     }
     protected void resultGrid_SelectedIndexChanged(object sender, EventArgs e)

@@ -19,8 +19,8 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" runat="Server">
     <h1 class="h3 mb-3 font-weight-normal">Вход за студенти</h1>
     <div class="form-group">
-        <label for="txtUsername" class="sr-only">Потребителско име:</label>
-        <asp:TextBox ID="txtUsername" runat="server" class="form-control" placeholder="Потребителско име" required="required" autofocus="autofocus" />
+        <label for="txtUsername" class="sr-only">Факултетен номер:</label>
+        <asp:TextBox ID="txtUsername" runat="server" class="form-control" placeholder="Факултетен номер" required="required" autofocus="autofocus" />
     </div>
 
     <div class="form-group">
