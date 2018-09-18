@@ -31,7 +31,7 @@ public partial class admin : System.Web.UI.Page
             }
             else
             {
-                ltrMessage.Text = "Invallid User or Password!";
+                ltrMessage.Text = "Грешни име и/или парола!";
             }
         }
         catch (Exception ex)

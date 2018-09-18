@@ -34,7 +34,7 @@ public partial class student : Page
             }
             else
             {
-                ltrMessage.Text = "Invallid User or Password!";
+                ltrMessage.Text = "Грешни име и/или парола!";
             }
         }
         catch (Exception ex)
